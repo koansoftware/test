@@ -1,0 +1,14 @@
+
+Project Initialization
+
+$ mkdir github
+$ cd github/
+$ mkdir test
+
+$ touch README.md
+$ git init
+$ git add README.md
+$ git commit -m "first commit"
+$ git remote add origin https://github.com/koansoftware/test.git
+$ git push -u origin master
+
